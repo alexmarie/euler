@@ -1,5 +1,3 @@
-#http://projecteuler.net/index.php?section=problems&id=3
-
 @primes = []
 
 def prime_factors(n)
